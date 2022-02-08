@@ -13,9 +13,5 @@
 
 새해까지의 Count Timer를 나타낸다.
 
-## Install dependencies
 
-```git
-npm install
-```
 
