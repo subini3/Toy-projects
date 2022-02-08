@@ -18,20 +18,3 @@
 npm install
 ```
 
-## Run web server
-
-```git
-npm start
-```
-
-## Lint
-
-```git
-npm run lint
-```
-
-## Run tests
-
-```git
-npm test
-```
