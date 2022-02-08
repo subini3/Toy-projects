@@ -1,4 +1,3 @@
-# Toy-projects
 # Count Timer
 
 새해까지의 Count Timer
