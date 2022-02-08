@@ -6,7 +6,8 @@
 
 ## 구현
 
-![momojji](https://user-images.githubusercontent.com/58525009/122689502-e58dd080-d25d-11eb-9f1e-db17acbdcae1.gif)
+![카운트타이머](https://user-images.githubusercontent.com/98517372/153017079-8f16d883-8623-4ba8-81e0-d2d7694bd07a.PNG)
+
 
 ## 설명
 
