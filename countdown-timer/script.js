@@ -25,6 +25,5 @@ formatTime = (time) =>{
     return time < 10 ? `0${time}` : time;
 }
 
-countdown();
 setInterval(countdown, 1000);
 
